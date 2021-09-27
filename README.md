@@ -1,3 +1,7 @@
+**Note:** This repository has been deprecated in favour of [pylon_instant_camera](https://github.com/fhwedel-hoe/pylon_instant_camera). pylon_instant_camera targets ROS2 while supporting USB cameras as well as GigE cameras, pixel formats other than RGB8, and loading pylon feature streams for exhaustive configuration.
+
+### pylon_usb-instant-camera
+
 ROS node for access to Basler camera via Pylon CBaslerUsbInstantCamera API. 
 
 Supports *low-latency, high-speed, arbitrary framerate, free-running* mode.
